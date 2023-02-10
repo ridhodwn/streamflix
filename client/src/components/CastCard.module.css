@@ -1,0 +1,29 @@
+.cardMain {
+    width: 120px;
+    height: 260px;
+    margin-inline-end: 8px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+.cardBody {
+    padding: 7px;
+    height: 100px;
+    overflow-y: auto;
+}
+
+.cardName {
+    font-size: 15px;
+}
+
+.cardCharacter {
+    font-size: 13px;
+    
+}
+
+.cardImage {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 110px;
+    height: 160px;
+}

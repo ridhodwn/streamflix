@@ -1,0 +1,19 @@
+.cardMain {
+    width: 200px;
+    margin-inline-end: 15px;
+    margin-block-end: 15px;
+}
+
+.cardImage {
+    height: 300px;
+    border-radius: 5px
+}
+
+.cardOwnership {
+    font-size: 13px;
+}
+
+.cardLink {
+    text-decoration: none;
+    color: black;
+}

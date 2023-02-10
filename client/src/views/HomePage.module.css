@@ -1,0 +1,26 @@
+.homeTitle {
+    margin-top: 30px;
+    margin-left: 73px;
+}
+
+.loadingPage {
+    padding: 30 px;
+}
+
+.cardContainer {
+    display: flex;
+    width: '100%';
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 4px;
+    border-bottom-color: #D3D3D3;
+    border-bottom-width: 1px;
+    background-color: white;
+    margin-right: 10px;
+    margin-left: 80px;
+    padding-block: 10px
+}
+
+.pagination {
+    margin-left: 80px;
+}
